@@ -1,0 +1,27 @@
+{
+  "name": "supreme-catto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riasingh12/Supreme-Catto-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Ria Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riasingh12/Supreme-Catto-Bot/issues"
+  },
+  "homepage": "https://github.com/riasingh12/Supreme-Catto-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
